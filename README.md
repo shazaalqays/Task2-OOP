@@ -8,7 +8,7 @@ object-oriented programming is about creating objects that contain both data and
 * OOP makes it possible to create full reusable applications with less code and shorter development time.
 </br>
 Java is an object-oriented programming language. Everything in Java is associated with classes and objects, along with its attributes and methods. For example: in real life, a car is an object. The car has attributes, such as weight and color, and methods, such as drive and brake.
-</br>
+
 # Examples
 Please check codes in the files.
 * Task5 example, is a simple system for a person and pet.
